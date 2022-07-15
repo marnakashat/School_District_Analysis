@@ -6,10 +6,12 @@ Utilize the capabilities of Python and Pandas to analyze school and student data
 ## Results
 ### School District Summary
 >There was a little decrease in total Scores for ninth-graders at Thomas High School when reading and math grades were changed.
+>
 ![image](https://user-images.githubusercontent.com/107198518/179141734-04b34417-756c-47aa-9bb7-e66bbde9b21f.png)
 
 ### School Summary
 >When the School Summary results were reviewed, there was a modest reduction in the scores. The average math score decreased when passing rates and average scores were compared among the 15 high schools in the district.
+>
 ![image](https://user-images.githubusercontent.com/107198518/179142007-f3e32a94-23b7-42a9-98e8-5ac5c4132a69.png)
 
 ### Top Five Performing Schools
