@@ -11,7 +11,7 @@ Utilize the capabilities of Python and Pandas to analyze school and student data
 
 ### School Summary
 >When the School Summary results were reviewed, there was a modest reduction in the scores. The average math score decreased when passing rates and average scores were compared among the 15 high schools in the district.
->
+
 ![image](https://user-images.githubusercontent.com/107198518/179142007-f3e32a94-23b7-42a9-98e8-5ac5c4132a69.png)
 
 ### Top Five Performing Schools
@@ -34,14 +34,17 @@ Utilize the capabilities of Python and Pandas to analyze school and student data
 >According to school and grade level, the average reading and math score summaries were both satisfactory. While the rest of the data remained unaltered, the summary tables for ninth grade at Thomas High School show "NaN."
 
 ### School Spending Summary
--The results of the analysis of school spending did not alter.
+>The results of the analysis of school spending did not alter.
+>
 ![image](https://user-images.githubusercontent.com/107198518/179145577-f2a33067-989b-4d74-8b67-b5b7d901d2b8.png)
 
 ### School Size Summary
--The Scores by School Size also remained unchanged.
+>The Scores by School Size also remained unchanged.
+
 ![image](https://user-images.githubusercontent.com/107198518/179144683-e29a83a9-a2ea-4d64-95b5-053d2ac94ce8.png)
 
 ### School Type Summary
--The scores by School type remained unchanged.
+>The scores by School type remained unchanged.
+
 ![image](https://user-images.githubusercontent.com/107198518/179145029-080670ff-ef6c-41d0-90b6-571c5bd830c3.png)
 
