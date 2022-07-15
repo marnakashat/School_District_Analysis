@@ -30,7 +30,8 @@ Utilize the capabilities of Python and Pandas to analyze school and student data
 
 ### Average Reading Scores by Grade & School
 ![image](https://user-images.githubusercontent.com/107198518/179146233-f4abaf58-d16b-4014-8b3d-a6210ef690ad.png)
--According to school and grade level, the average reading and math score summaries were both satisfactory. While the rest of the data remained unaltered, the summary tables for ninth grade at Thomas High School show "NaN."
+
+>According to school and grade level, the average reading and math score summaries were both satisfactory. While the rest of the data remained unaltered, the summary tables for ninth grade at Thomas High School show "NaN."
 
 ### School Spending Summary
 -The results of the analysis of school spending did not alter.
