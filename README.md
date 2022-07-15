@@ -6,7 +6,7 @@ Utilize the capabilities of Python and Pandas to analyze school and student data
 ## Results
 ### School District Summary
 >There was a little decrease in total Scores for ninth-graders at Thomas High School when reading and math grades were changed.
->
+
 ![image](https://user-images.githubusercontent.com/107198518/179141734-04b34417-756c-47aa-9bb7-e66bbde9b21f.png)
 
 ### School Summary
@@ -23,7 +23,7 @@ Utilize the capabilities of Python and Pandas to analyze school and student data
 >The top five performing schools' rankings were impacted by the score replacements while evaluating school summaries and performing schools.Thomas High School placed second out of the top five performing institutions with a 91% passing rate. Thomas High School was removed from the top five group after changing both math and reading scores, which let the school at a 65% passing rate. Thomas High School is now ranked eighth out of the 15 high schools in the district, according to the updated School Summary.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
->Thomas High School, which had previously held second place, was still among the top 5 performing schools. The performance of the school was unaffected by replacing the 9th graders' scores with NAN.
+- Thomas High School, which had previously held second place, was still among the top 5 performing schools. The performance of the school was unaffected by replacing the 9th graders' scores with NAN.
 
 ### Average Math Scores by Grade & School
 ![image](https://user-images.githubusercontent.com/107198518/179146157-5c7237a2-c71a-47c3-bae1-a1b13312a216.png)
